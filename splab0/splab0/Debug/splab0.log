@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  splab0.cpp
+C:\Users\ilya\Desktop\splab0\splab0\splab0.cpp(9,16): warning C4309: инициализация: усечение константного значения
+C:\Users\ilya\Desktop\splab0\splab0\splab0.cpp(11,18): warning C4309: инициализация: усечение константного значения
+C:\Users\ilya\Desktop\splab0\splab0\splab0.cpp(13,20): warning C4309: инициализация: усечение константного значения
+  splab0.vcxproj -> C:\Users\ilya\Desktop\splab0\Debug\splab0.exe
